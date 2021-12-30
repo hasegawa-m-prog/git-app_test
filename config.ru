@@ -2,4 +2,7 @@
 
 require_relative 'config/environment'
 
-run Rails.application
+    # 練習コメント
+    #練習コメント2
+
+  run Rails.application
